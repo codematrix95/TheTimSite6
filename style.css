@@ -234,12 +234,10 @@ h1 {
 
 .copyright {
   font-size: 20px;
-  white-space: nowrap;
 }
 
 .copyrightClosed {
   font-size: 0px;
-  white-space: nowrap;
 }
 
 @font-face {
