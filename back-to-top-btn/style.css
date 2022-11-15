@@ -50,3 +50,7 @@
 .anim-end div:nth-child(3) {
   transform: rotate(0deg);
 }
+
+.cntr:hover {
+  cursor: pointer;
+}
