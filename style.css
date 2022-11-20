@@ -123,7 +123,6 @@ h1 {
   color: transparent;
   flex-grow: 0;
   font-size: 0px;
-  /* white-space: pre-wrap; */
 }
 
 .info a:nth-child(1) {
