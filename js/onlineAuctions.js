@@ -17,7 +17,7 @@ export const clickMe = id.onlineAuctions.onclick = () => {
         
         id.auctionTimeLink.className = 'linkOpened';
 
-        id.leaveFeedback.className = 'menu copyrightClosed opening topBottom'; 
+        id.copyright.className = 'menu copyrightClosed opening topBottom'; 
 
     }else{
 
@@ -32,7 +32,7 @@ export const clickMe = id.onlineAuctions.onclick = () => {
 
         id.auctionTimeLink.className = 'linkOpened linkClosed';
 
-        id.leaveFeedback.className = 'menu copyright opening closing topBottom';
+        id.copyright.className = 'menu copyright opening closing topBottom';
 
     };     
 };
