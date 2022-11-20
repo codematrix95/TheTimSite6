@@ -2,14 +2,6 @@ import * as id from './id.js';
 
 export const clickMe = ourStory.onclick = () =>{
 
-    // const onlineAuctions = document.querySelector('#onlineAuctions');
-    // const liveAuctions = document.querySelector('#liveAuctions');
-    // const ourStory = document.querySelector('#ourStory');
-    // const contactUs = document.querySelector('#contactUs');
-    // const leaveFeedback = document.querySelector('#leaveFeedback');
-
-    // const ourStoryInfo = document.querySelector('#ourStoryInfo');
-
     if(id.onlineAuctions.className != 'menu opening topBottom'){
 
         id.onlineAuctions.className = 'menu opening topBottom';

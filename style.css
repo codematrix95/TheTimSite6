@@ -144,54 +144,6 @@ h1 {
   transition-duration: 500ms, 250ms, 500ms;
 }
 
-#buttonContainer {
-  position: fixed;
-  display: flex;
-  opacity: 1;
-  height: 30px;
-  width: 30px;
-  align-items: center;
-  justify-content: center;
-  rotate: -90deg;
-  left: 100%;
-  bottom: 7px;
-  transition-property: opacity;
-  transition-duration: 500ms;
-}
-
-/* .arrow::before {
-  position: absolute;
-  content: "";
-  background-color: blue;
-  width: 20px;
-  height: 5px;
-  border-radius: 5px;
-  right: -2px;
-  top: -6px;
-  rotate: 45deg;
-}
-
-.arrow {
-  position: sticky;
-  background-color: black;
-  width: 30px;
-  height: 5px;
-  border-radius: 5px;
-  top: 400px;
-}
-
-.arrow::after {
-  position: absolute;
-  content: "";
-  background-color: red;
-  width: 20px;
-  height: 5px;
-  border-radius: 5px;
-  right: -2px;
-  top: 6px;
-  rotate: -45deg;
-} */
-
 .linkOpened {
   background-color: white;
   color: rgb(100, 200, 255);

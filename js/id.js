@@ -11,7 +11,7 @@ export const onlineAuctions = document.querySelector('#onlineAuctions');
 export const liveAuctions = document.querySelector('#liveAuctions');
 export const ourStory = document.querySelector('#ourStory');
 export const contactUs = document.querySelector('#contactUs');
-export const leaveFeedback = document.querySelector('#leaveFeedback');
+export const copyright = document.querySelector('#copyright');
 
 export const onlineAuctionsInfo = document.querySelector('#onlineAuctionsInfo');
 export const liveAuctionsInfo = document.querySelector('#liveAuctionsInfo');
