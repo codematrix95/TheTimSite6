@@ -15,7 +15,7 @@ export const clickMe = ourStory.onclick = () =>{
 
         id.ourStoryInfo.className = 'info paragraphOpened';
 
-        id.leaveFeedback.className = 'menu copyrightClosed opening topBottom';
+        id.copyright.className = 'menu copyrightClosed opening topBottom';
 
     }else{
 
@@ -30,7 +30,7 @@ export const clickMe = ourStory.onclick = () =>{
 
         id.ourStoryInfo.className = 'info paragraphOpened closed';
 
-        id.leaveFeedback.className = 'menu copyright opening closing topBottom'; 
+        id.copyright.className = 'menu copyright opening closing topBottom'; 
 
     };       
 };
