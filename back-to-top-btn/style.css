@@ -2,8 +2,8 @@
   position: fixed;
   display: flex;
   transform: translateY(65px) rotate(90deg);
-  bottom: 5px;
-  right: 5px;
+  bottom: 20px;
+  right: 15px;
   padding: 15px 0px;
   transition: transform 125ms 0ms ease-in-out;
 }

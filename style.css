@@ -76,7 +76,10 @@ h1 {
   cursor: pointer;
   font-size: 40px;
   color: white;
-  /* white-space: pre-wrap; */
+}
+
+.menu div:nth-child(1) {
+  padding-right: 7px;
 }
 
 .selected {
