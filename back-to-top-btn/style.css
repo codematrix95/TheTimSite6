@@ -17,6 +17,7 @@
   transform: rotate(0deg);
   transition: transform 125ms 250ms ease-in-out;
   transform-origin: 2px;
+  opacity: 80%;
 }
 
 .btn div:nth-child(1) {
