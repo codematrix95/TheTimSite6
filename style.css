@@ -126,6 +126,10 @@ h1 {
   /* white-space: pre-wrap; */
 }
 
+.info a:nth-child(1) {
+  padding-right: 11px;
+}
+
 .paragraphOpened {
   flex-grow: 5;
   align-items: flex-start;
