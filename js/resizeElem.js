@@ -1,6 +1,8 @@
 import * as id from './id.js';
 
 export const resizeElem = window.onload = () => {
+    console.log('hi')
+
     if(id.body.clientWidth >= 750){
         
         const topBottomImg = [id.bannerimg1, id.bannerimg3];

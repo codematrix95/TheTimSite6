@@ -4,4 +4,6 @@ import * as liveAuctions from './liveAuctions.js'
 import * as ourStory from './ourStory.js'
 import * as contactUs from './contactUs.js'
 
+import * as updateYear from './updateYear.js'
+
 import BackToTopBtn from '../back-to-top-btn/script.js';
